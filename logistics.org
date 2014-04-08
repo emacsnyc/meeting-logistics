@@ -1,0 +1,38 @@
+#+TITLE: Logistics for Organizing an EmacsNYC Meetup
+
+* As early as possible
+** Book speaker(s)
+** Post on =meetup.com=
+*** Include a blurb about each speaker's talk, and link to the speakers website (if available)
+*** Include the thoughtbot location, mention that it's in a WeWork
+** Post on =emacsnyc.org=
+*** Same content as above
+*** Adding a =scheduled:= tag with a date in the post's YAML will treat it as a meetup announcement in the website's header
+* The week before
+** Reserve the room on the 10th floor
+** Contact Tessa to ensure that folding chairs are available
+* The day before
+** Ensure that the camera, projector, microphone, and screen are available
+** Ensure that someone will be available to greet people in the lobby and key them up the elevator
+** Ensure that a big poster is available for the front door of WeWork
+* The Big Day
+** Use the count on meetup to estimate the number of attendants
+** Order pizza
+*** From where?
+*** As a guideline, 50 people eat about 12 large pizzas
+** Post a poster on the WeWork door
+* During the event
+** Set up the camera/projector/screen/microphone
+** Start the event at 6:30
+** Open up for announcements and lightning talks at 7:00
+** Try to get the main presentation(s) rolling by 7:15
+** If there are two talks, have a brief break between them
+** Try to close up by 9:00
+* The day after
+** Conduct a brief retrospective to see what we should have done differently
+** Send the videos and audio to Thom for editing
+** Contact the speakers for links to their slides (or other material)
+* The week after
+** Get the videos from Thom
+** Have Harry upload the videos to S3
+** Post links to the videos and other materials on the /videos/ page on =emacsnyc.org=
