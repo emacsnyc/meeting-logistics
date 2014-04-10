@@ -12,7 +12,7 @@
 ** Reserve the room on the 10th floor
 ** Contact Tessa to ensure that folding chairs are available
 * The day before
-** Ensure that the camera, projector, microphone, and screen are available
+** Ensure that the camera, projector, audio recorder, and screen are available
 ** Ensure that someone will be available to greet people in the lobby and key them up the elevator
 ** Ensure that a big poster is available for the front door of WeWork
 * The Big Day
@@ -22,7 +22,10 @@
 *** As a guideline, 50 people eat about 12 large pizzas
 ** Post a poster on the WeWork door
 * During the event
-** Set up the camera/projector/screen/microphone
+** Set up the camera/projector/screen/recorder
+*** Definitely keep using the recorder, the production quality is very high
+*** Try to illuminate the speaker a little to reduce the contrast between the speaker and the screen: cameras love light!
+*** Keep a clear line of sight between the projector and the speaker. Remove chairs that may sprout heads.
 ** Start the event at 6:30
 ** Open up for announcements and lightning talks at 7:00
 ** Try to get the main presentation(s) rolling by 7:15
