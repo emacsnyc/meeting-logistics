@@ -24,8 +24,11 @@
 * During the event
 ** Set up the camera/projector/screen/recorder
 *** Definitely keep using the recorder, the production quality is very high
+*** Use the miniature tripod with the recorder, since it improves sound quality significantly.
+*** Zoom in so the frame is from the speaker's arm to the edge of the projector screen; everything else is wasted space.
 *** Try to illuminate the speaker a little to reduce the contrast between the speaker and the screen: cameras love light!
-*** Keep a clear line of sight between the projector and the speaker. Remove chairs that may sprout heads.
+*** Run the screencapture software to include laptop mic audio as a source as well. It makes syncing easier!
+*** Keep a clear line of sight between the projector and the speaker. Remove chairs that may sprout heads. Additionally, when people move the camera will attempt to autofocus on them!
 ** Start the event at 6:30
 ** Open up for announcements and lightning talks at 7:00
 ** Try to get the main presentation(s) rolling by 7:15
