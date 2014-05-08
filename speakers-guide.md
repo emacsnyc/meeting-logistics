@@ -26,7 +26,9 @@ Please send `admin@emacsnyc.org` an email that includes:
 - If you're on some other Unix, please install `avconv` (or `ffmpeg`)
   and ensure that the following command records a screencast:
 
-    avconv -f x11grab -r 25 -s 1920x1080 -i :0 -vcodec libx264 -threads 0 video.mkv
+```shell
+$ avconv -f x11grab -r 25 -s 1920x1080 -i :0 -vcodec libx264 -threads 0 video.mkv
+```
 
 - We're not sure how to record a good screencast (with audio) on
   Windows. If you're a Windows user, please come up with a solution
