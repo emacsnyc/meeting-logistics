@@ -24,10 +24,13 @@ Please send `admin@emacsnyc.org` an email that includes:
 - If you're on a Mac, please install a trial copy of
  [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
 - If you're on some other Unix, please install `avconv` (or `ffmpeg`)
-  and ensure that the following command records a screencast:
+  and ensure that the following command records a
+  screencast. Substitute `ffmpeg` for `avconv` if necessary, and note
+  that this command assumes you're using pulse audio. You may also
+  need to change the resolution if you're not on 1600x900.
 
 ```shell
-$ avconv -f x11grab -r 25 -s 1920x1080 -i :0 -vcodec libx264 -threads 0 video.mkv
+$ avconv -f x11grab -r 25 -s 1600x900 -i :0 -vcodec libx264 -f alsa -ac 2 -i pulse -threads 0 video.mkv
 ```
 
 - We're not sure how to record a good screencast (with audio) on
