@@ -6,19 +6,14 @@ Logistics for Organizing an EmacsNYC Meetup
 - [ ] Book speaker(s)
 - [ ] Direct speaker(s) to the speaker's guide.
 - [ ] Announce meetup on `meetup.com`
-
-Include the title and abstract for each speaker's talk, and link to
-the speaker's website (if available).
-
-Include the thoughtbot location and mention that it's in a WeWork.
-
+    - Include the title and abstract for each speaker's talk, and link
+      to the speaker's website (if available).
+    - Include the thoughtbot location and mention that it's in a
+      WeWork.
 - [ ] Post on `emacsnyc.org`
-
-Same content as above.
-
-Adding a `scheduled:` tag with a date in the post's YAML will treat it
-as a meetup announcement in the website's header
-
+    - Same content as above.
+    - Adding a `scheduled:` tag with a date in the post's YAML will
+      treat it as a meetup announcement in the website's header
 - [ ] Reserve the appropriate room through WeWork. Ensure that folding
   chairs are available.
 
@@ -59,7 +54,6 @@ as a meetup announcement in the website's header
     - Keep a clear line of sight between the projector and the
       speaker. Remove chairs that may sprout heads. Additionally, when
       people move the camera will attempt to autofocus on them!
-
 - [ ] Start the event at 6:30
 - [ ] Open up for announcements and lightning talks at 7:00
 - [ ] Try to get the main presentation(s) rolling by 7:15
