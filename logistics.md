@@ -4,13 +4,13 @@ Logistics for Organizing an EmacsNYC Meetup
 ### As early as possible
 
 - [ ] Book speaker(s)
-- [ ] Direct speaker(s) to the speaker's guide.
-- [ ] Announce meetup on `meetup.com`
+- [ ] Direct speaker(s) to the [speaker's guide](https://github.com/emacsnyc/meeting-logistics/blob/master/speakers-guide.md).
+- [ ] Announce meetup on [meetup.com](http://www.meetup.com/New-York-Emacs-Meetup/)
     - Include the title and abstract for each speaker's talk, and link
       to the speaker's website (if available).
     - Include the thoughtbot location and mention that it's in a
       WeWork.
-- [ ] Post on `emacsnyc.org`
+- [ ] Post on [emacsnyc.org](http://emacsnyc.org/)
     - Same content as above.
     - Adding a `scheduled:` tag with a date in the post's YAML will
       treat it as a meetup announcement in the website's header
@@ -71,4 +71,4 @@ Logistics for Organizing an EmacsNYC Meetup
 - [ ] Get the videos from Thom.
 - [ ] Have Harry upload the videos to S3.
 - [ ] Post links to the videos and other materials on the *videos*
-  page on `emacsnyc.org`.
+  page on [emacsnyc.org](http://emacsnyc.org/videos.html).
