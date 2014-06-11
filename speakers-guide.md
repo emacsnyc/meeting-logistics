@@ -27,7 +27,8 @@ Please send `admin@emacsnyc.org` an email that includes:
   and ensure that the following command records a
   screencast. Substitute `ffmpeg` for `avconv` if necessary, and note
   that this command assumes you're using pulse audio. You may also
-  need to change the resolution if you're not on 1600x900.
+  need to change the resolution if you're not on 1600x900, but please
+  try to ensure that final output video is widescreen (16x9).
 
 ```shell
 $ avconv -f x11grab -r 25 -s 1600x900 -i :0 -vcodec libx264 -f alsa -ac 2 -i pulse -threads 0 video.mkv
