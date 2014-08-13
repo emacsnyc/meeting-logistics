@@ -26,6 +26,14 @@ Logistics for Organizing an EmacsNYC Meetup
     - [ ] Recorder tripod
     - [ ] Projector (if needed)
     - [ ] Screen (if needed)
+    - [ ] HDMI cable
+    - [ ] HDMI-to-display-port adapter
+    - [ ] Plastic solo cups (just in case)
+    - [ ] Signs
+    - [ ] Tape (for hanging up signs)
+    - [ ] Extension cord(s)
+    - [ ] thoughtbot stickers
+    - [ ] Spare batteries for microphone (AA)
 - [ ] Ensure that someone will be available to greet people in the
   lobby and key them up the elevator.
 - [ ] Ensure that a big poster is available for the front door of
