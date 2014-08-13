@@ -16,6 +16,7 @@ Logistics for Organizing an EmacsNYC Meetup
       treat it as a meetup announcement in the website's header
 - [ ] Reserve the appropriate room through WeWork. Ensure that folding
   chairs are available.
+- [ ] Ensure that WeWork's beer keg is available and filled.
 
 ### The day before
 
