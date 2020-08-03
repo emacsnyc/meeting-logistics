@@ -27,7 +27,7 @@ If you are being harassed, notice that someone else is being harassed,
 or have any other concerns, please act to intercede or ask for help
 from any member of the EmacsNYC community, IRC chat admins, website
 admins, or organizers/representatives of any physical events put on
-under the auspices of EmacNYC.
+under the auspices of EmacsNYC.
 
 ---
 
