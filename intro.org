@@ -1,0 +1,50 @@
+* About the group
+- Largest Emacs meetup in NYC
+- We meet the first non-holiday Monday in the month
+- Revolving schedule for the group
+  - Long Talk
+  - Hack Night
+  - Lightning Talks
+
+* Lightning Talks
+- 5-10 minute long talks
+- Emacs & Emacs adjacent
+
+* Long Talk
+- Subject and person giving talk
+
+* Hack Night
+- Work together on common problems
+- Start with introductions to help break the ice
+  - Name
+  - What you do
+  - What you want to work on if anything
+  - Do you need help?
+
+* Sponsor
+- thoughtbot
+- Provide snacks, drinks, and space
+- Talk about sponsor
+
+* Things to know
+- WiFi
+- Bathroom in the back
+- Snacks and drinks
+
+* Rules
+- Stay in this room
+- Clean up after yourself
+
+* Code of Conduct
+- http://tbot.io/emacs-conduct
+- Goal
+  - Open and welcoming environment
+  - Everyone is here because they want to be
+- Recourse
+  - If you feel someone has violated the code of conduct, please bring it to our attention
+  - Speak to one of the organizers
+  - Uncomfortable bringing it up directly? Send email to admin@emacsnyc.org
+  - Uncomfortable speaking to the organizers? Speak or send email to Stephanie
+- Actions taken
+  - Someone violates the code of conduct they will be spoken to
+  - They may be asked to leave
