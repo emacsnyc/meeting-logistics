@@ -31,11 +31,9 @@ under the auspices of EmacsNYC.
 
 ---
 
-This Code of Conduct has been adapted from [Pyladies][pyladies]
-(itself adapted from the [Plone Foundation][plone]) and is licensed
-under a
-[Creative Commons Attribution-Share Alike 3.0 Unported license]
-[cc-by-sa].
+This Code of Conduct has been adapted from [Pyladies][pyladies] (itself adapted
+from the [Plone Foundation][plone]) and is licensed under a [Creative Commons
+Attribution-Share Alike 3.0 Unported license][cc-by-sa].
 
 [pyladies]: http://www.pyladies.com/CodeOfConduct/
 [plone]: http://plone.org/foundation/materials/foundation-resolutions/code-of-conduct
